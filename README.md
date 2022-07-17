@@ -1,5 +1,3 @@
-SmartCam: Open Source Conditional Access Module [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 ===========================================
 
 [![License: SMARTCAM](https://img.shields.io/badge/-SMARTCAM-red)](https://t.me/SmartCamChannel)
