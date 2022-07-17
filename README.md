@@ -6,9 +6,6 @@ SmartCam: Open Source Conditional Access Module [![License: GPL v3](https://img.
 
 [![License: SMARTCAM](https://img.shields.io/badge/SMARTCAM%20TEAM-Telegram%20Channel-blue)](https://t.me/SmartCamChannel)
 
- [![License: SMARTCAM](https://img.shields.io/badge/-SMARTCAM%20is%20based%20on%20the%20Oscam-9cf)](https://wiki.streamboard.tv/wiki/OSCam)
-
-[![License: SMARTCAM](https://img.shields.io/badge/-And%20also%20Oscam%20emu-lightgrey)](https://wiki.streamboard.tv/wiki/OSCam)
 
 ==========================================
 
