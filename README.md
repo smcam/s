@@ -1,8 +1,8 @@
 ===========================================
 
-[![License: SMARTCAM](https://img.shields.io/badge/-SMARTCAM-red)](https://t.me/Youchie)
+[![License: Y](https://img.shields.io/badge/-Youchie-red)](https://t.me/Youchie)
 
-[![License: SMARTCAM](https://img.shields.io/badge/SMARTCAM%20TEAM-Telegram%20Channel-blue)](https://t.me/Youchie)
+[![License: SMARTCAM](https://img.shields.io/badge/SMARTCAM%20TEAM-Telegram%20Channel-blue)](https://t.me/smartcam_team)
 
 
 ==========================================
@@ -27,6 +27,6 @@ SMARTCAM EMU And SMARTCAM Clinet All Patched And Compiled By SMARTCAM TEAM (Youc
 
 For download and more information, visit our channel in Telegram
 
-[![License: SMARTCAM](https://img.shields.io/badge/-SMARTCAM%20TEAM-red)](https://t.me/Youchie)
+[![License: SMARTCAM](https://img.shields.io/badge/-Youchie-red)](https://t.me/Youchie)
 
-[![License: SMARTCAM](https://img.shields.io/badge/SMARTCAM%20TEAM-Telegram%20Channel-blue)](https://t.me/Youchie)
+[![License: SMARTCAM](https://img.shields.io/badge/SMARTCAM%20TEAM-Telegram%20Channel-blue)](https://t.me/smartcam_team)
